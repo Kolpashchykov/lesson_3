@@ -1,0 +1,92 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+/* ============================== */
+
+h1 {
+	color: rgb(21, 105, 0);
+}
+.menu-start {
+	color: crimson;
+}
+.text-view {
+	color: rgb(194, 107, 0);
+}
+span {
+	color: deeppink;
+}
+p.text {
+	color: mediumslateblue;
+}
+li {
+	color: tomato;
+}
+.next {
+	color: rgb(231, 247, 16);
+}
+.next-end {
+	color: violet;
+}
+li.block {
+	color: rgb(105, 19, 4);
+}
+.hire {
+	color: rgb(255, 38, 0);
+}
+div.section-ux {
+	color: rgb(255, 38, 0);
+}
+#uxdesign {
+	color: royalblue;
+}
+.text-span {
+	color: rgb(0, 106, 114);
+}
+.section-ui {
+	color: rgb(5, 161, 0);
+}
+.boom {
+	color: rgb(219, 24, 219);
+}
+#block {
+	color: rgb(168, 0, 28);
+}
+#contact {
+	color: royalblue;
+}
+.new-paragrph {
+	color: blue;
+}
+.paragrph-end {
+	color: darkslateblue;
+}
+.about-text {
+	color: mediumblue;
+}
